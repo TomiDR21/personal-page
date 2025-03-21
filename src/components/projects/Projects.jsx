@@ -4,37 +4,37 @@ import styles from "./Projects.module.css";
 const Projects = () => {
   const projects = [
     {
-      src: "/images/minigame.png",
+      src: "/personal-page/images/minigame.png",
       link: "https://tomidr21.github.io/mini-game/",
       text: " OOP JavaScript Mini-Game",
       imgText: "View project",
     },
     {
-      src: "/images/crud.png",
+      src: "/personal-page/images/crud.png",
       link: "https://tomidr21.github.io/to-do-list/",
       text: " ReactJS CRUD Application",
       imgText: "View project (Github Pages)",
     },
     {
-      src: "/images/alfre.png",
+      src: "/personal-page/images/comingsoon.png",
       link: "",
       text: "This is Project 2",
       imgText: "dd",
     },
     {
-      src: "/images/comingsoon.png",
+      src: "/personal-page/images/comingsoon.png",
       link: "",
       text: "This is Project 3",
       imgText: "Coming sooner or later...",
     },
     {
-      src: "/images/comingsoon.png",
+      src: "/personal-page/images/comingsoon.png",
       link: "",
       text: "This is Project 4",
       imgText: "Coming sooner or later...",
     },
     {
-      src: "/images/comingsoon.png",
+      src: "/personal-page/images/comingsoon.png",
       link: "",
       text: "This is Project 5",
       imgText: "Coming sooner or later...",
